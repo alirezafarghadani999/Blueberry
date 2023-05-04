@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">بلوبری</string>
+    <drawable name="splash_screen">@drawable/splash_logo</drawable>
+</resources>
